@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Bruno Schiozzi
 
-🎓 I’m a junior frontend developer with a background in software development and a passion for creating clean, responsive websites.
-
 💻 I specialize in:
 - HTML5, CSS3, JavaScript (up to AJAX)
 - Bootstrap for responsive design
